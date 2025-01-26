@@ -78,7 +78,7 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="{{surface0}}"/>
     <option name="ScrollBar.Mac.hoverThumbColor" value="{{surface1}}"/>
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="{{surface1}}"/>
-    <option name="TAB_UNDERLINE" value="{{mauve}}"/>
+    <option name="TAB_UNDERLINE" value="{{blue}}"/>
     <option name="TAB_UNDERLINE_INACTIVE" value="{{text}}"/>
     <option name="TEARLINE_COLOR" value="{{surface0}}"/>
     <option name="VCS_ANNOTATIONS_COLOR_1" value="{{opacity mauve 0.6}}"/>
@@ -135,7 +135,7 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>
     <option name="APACHE_CONFIG.IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -163,7 +163,7 @@
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT"/>
     <option name="BLADE_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="TERMINAL_BACKGROUND" value="{{base}}"/>
@@ -312,7 +312,7 @@
     </option>
     <option name="BUILDOUT.KEY">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
@@ -439,7 +439,7 @@
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
-        <option name="EFFECT_COLOR" value="{{mauve}}"/>
+        <option name="EFFECT_COLOR" value="{{blue}}"/>
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -574,7 +574,7 @@
     </option>
     <option name="CSV_PLUGIN_COLUMN_COLORING_ATTRIBUTE_5">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="CSV_PLUGIN_COLUMN_COLORING_ATTRIBUTE_6">
@@ -634,7 +634,7 @@
     <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES"/>
     <option name="Clojure Atom">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="Clojure Character">
@@ -953,7 +953,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -1130,7 +1130,7 @@
     </option>
     <option name="EL.BOUNDS">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="ENUM_CONST">
@@ -1232,7 +1232,7 @@
     </option>
     <option name="GHERKIN_TABLE_PIPE">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         <option name="FONT_TYPE" value="1"/>
       </value>
     </option>
@@ -1247,7 +1247,7 @@
     <option name="GO_BUILTIN_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
     <option name="GO_BUILTIN_TYPE">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="GO_COMMENT_REFERENCE">
@@ -1437,7 +1437,7 @@
     </option>
     <option name="INI.SECTION">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1498,7 +1498,7 @@
     </option>
     <option name="JADE_STATEMENTS">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         {{#if italics}}
         <option name="FONT_TYPE" value="2"/>
         {{/if}}
@@ -1549,7 +1549,7 @@
     </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="JUPYTER_SELECTED_CELL">
@@ -1630,7 +1630,7 @@
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES"/>
@@ -1646,7 +1646,7 @@
     </option>
     <option name="LABEL">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LESS_VARIABLE">
@@ -1684,27 +1684,27 @@
     </option>
     <option name="LOCALE.MSGCTXT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LOCALE.MSGID_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LOCALE.MSGID_PLURAL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LOCALE.MSGSTR_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LOCALE.MSGSTR_PLURAL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
@@ -1786,12 +1786,12 @@
     </option>
     <option name="LUA_REGION_DESC">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="LUA_STD_API">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         <option name="EFFECT_TYPE" value="2"/>
       </value>
     </option>
@@ -2049,7 +2049,7 @@
     </option>
     <option name="OC.CPP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="OC.ENUM_CONST">
@@ -2231,7 +2231,7 @@
     </option>
     <option name="PUPPET_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         <option name="FONT_TYPE" value="1"/>
       </value>
     </option>
@@ -2349,7 +2349,7 @@
     </option>
     <option name="RDOC_EMAIL">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="RDOC_HEADINGS">
@@ -2364,7 +2364,7 @@
     </option>
     <option name="RDOC_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="RDOC_URL">
@@ -2399,7 +2399,7 @@
     </option>
     <option name="REGEXP.META">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="REGEXP.PARENTHS">
@@ -2429,7 +2429,7 @@
     </option>
     <option name="REST.EXPLICIT">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         {{#if italics}}
         <option name="FONT_TYPE" value="2"/>
         {{/if}}
@@ -2437,7 +2437,7 @@
     </option>
     <option name="REST.FIELD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         {{#if italics}}
         <option name="FONT_TYPE" value="2"/>
         {{/if}}
@@ -2855,13 +2855,13 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         <option name="BACKGROUND" value="{{surface0}}"/>
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         <option name="BACKGROUND" value="{{surface0}}"/>
       </value>
     </option>
@@ -2922,7 +2922,7 @@
     </option>
     <option name="TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -2956,7 +2956,7 @@
     </option>
     <option name="VELOCITY_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         {{#if italics}}
         <option name="FONT_TYPE" value="2"/>
         {{/if}}
@@ -3014,7 +3014,7 @@
     </option>
     <option name="XPATH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
         {{#if italics}}
         <option name="FONT_TYPE" value="2"/>
         {{/if}}
@@ -3054,7 +3054,7 @@
     </option>
     <option name="com.plan9.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="{{mauve}}"/>
+        <option name="FOREGROUND" value="{{blue}}"/>
       </value>
     </option>
     <option name="com.plan9.LABEL">

@@ -95,7 +95,7 @@ Deno.readTextFile(uiPath).then((data) => {
       isLatte: !isDark,
 
       // strive to only use these values inside of `ui.theme.json`
-      accentColor: hexValues.mauve,
+      accentColor: hexValues.blue,
       secondaryAccentColor: hexValues.yellow,
       primaryForeground: hexValues.text,
       primaryBackground: hexValues.base,
